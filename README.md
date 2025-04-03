@@ -1,1 +1,1 @@
-# DiferenciadorIA
+Desarrollo de Apps con Kivy, KivyMD, MAUI
